@@ -27,7 +27,7 @@ import io.cucumber.java.Scenario;
 
 
 public class ApplicationHooks {
-    //private static DriverFactory driverFactory;
+    
     private static WebDriver driver;
     private static Properties prop;
      private static final Logger LOGGER=LogManager.getLogger(ApplicationHooks.class);
