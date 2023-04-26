@@ -10756,3 +10756,5 @@
 [INFO ] 2023-04-25 20:00:39.449 [main] ApplicationHooks - Taking Screenshot of failed test case
 [INFO ] 2023-04-25 20:00:39.500 [main] ApplicationHooks - Entering the Scenario : The user is able run code in tryEditor for Arrays Using List page page
 [INFO ] 2023-04-25 20:00:39.512 [main] ApplicationHooks - Taking Screenshot of failed test case
+[INFO ] 2023-04-25 20:44:39.203 [main] ApplicationHooks - Instantiation of Config Reader
+[INFO ] 2023-04-25 20:44:39.209 [main] ApplicationHooks - Instantiation of Driver Factory
